@@ -1,0 +1,23 @@
+{
+  "name": "zz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unknown1101/zz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unknown1101/zz/issues"
+  },
+  "homepage": "https://github.com/unknown1101/zz#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.3.2"
+  }
+}
